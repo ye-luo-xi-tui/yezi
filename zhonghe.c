@@ -5,7 +5,7 @@ void main1()
   unsigned char mess;
   char b;
   int a=0;
-  system("clear");//a afsf
+  system("clear");//made by yezi
   while(1)
 {
   while(1)
